@@ -1,4 +1,4 @@
-# Flyway Database Migration in Openshift Demo
+# Flyway Database Migration in Openshift CRC
 
 ## Introduction
 
